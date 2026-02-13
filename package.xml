@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="3">
-  <name>rovio_interfaces</name>
+  <name>rovtio_interfaces</name>
   <version>2.0.0</version>
-  <description>ROVIO interface definitions</description>
+  <description>ROVTIO interface definitions</description>
   <license>BSD</license>
 
   <maintainer email="suyashyeotikar@gmail.com">suyash023</maintainer>
