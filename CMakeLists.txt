@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.16)
-project(rovtio_interfaces)
+project(rovtio_interfaces_ros2)
 
 find_package(ament_cmake REQUIRED)
 find_package(geometry_msgs REQUIRED)
